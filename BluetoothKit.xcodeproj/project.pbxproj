@@ -7,100 +7,56 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		91A105B626B1A6F700CB3209 /* BKCBCentralManagerDelegateProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A026B1A6F700CB3209 /* BKCBCentralManagerDelegateProxy.swift */; };
-		91A105B726B1A6F700CB3209 /* BKCBCentralManagerDelegateProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A026B1A6F700CB3209 /* BKCBCentralManagerDelegateProxy.swift */; };
-		91A105B826B1A6F700CB3209 /* BKCBCentralManagerDelegateProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A026B1A6F700CB3209 /* BKCBCentralManagerDelegateProxy.swift */; };
-		91A105B926B1A6F700CB3209 /* BKDiscovery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A126B1A6F700CB3209 /* BKDiscovery.swift */; };
-		91A105BA26B1A6F700CB3209 /* BKDiscovery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A126B1A6F700CB3209 /* BKDiscovery.swift */; };
-		91A105BB26B1A6F700CB3209 /* BKDiscovery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A126B1A6F700CB3209 /* BKDiscovery.swift */; };
-		91A105BC26B1A6F700CB3209 /* BKPeripheralStateMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A226B1A6F700CB3209 /* BKPeripheralStateMachine.swift */; };
-		91A105BD26B1A6F700CB3209 /* BKPeripheralStateMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A226B1A6F700CB3209 /* BKPeripheralStateMachine.swift */; };
-		91A105BE26B1A6F700CB3209 /* BKPeripheralStateMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A226B1A6F700CB3209 /* BKPeripheralStateMachine.swift */; };
-		91A105BF26B1A6F700CB3209 /* BKPeripheralConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A326B1A6F700CB3209 /* BKPeripheralConfiguration.swift */; };
-		91A105C026B1A6F700CB3209 /* BKPeripheralConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A326B1A6F700CB3209 /* BKPeripheralConfiguration.swift */; };
-		91A105C126B1A6F700CB3209 /* BKPeripheralConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A326B1A6F700CB3209 /* BKPeripheralConfiguration.swift */; };
-		91A105C226B1A6F700CB3209 /* BKErrorDomain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A426B1A6F700CB3209 /* BKErrorDomain.swift */; };
-		91A105C326B1A6F700CB3209 /* BKErrorDomain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A426B1A6F700CB3209 /* BKErrorDomain.swift */; };
-		91A105C426B1A6F700CB3209 /* BKErrorDomain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A426B1A6F700CB3209 /* BKErrorDomain.swift */; };
-		91A105C526B1A6F700CB3209 /* BKCBPeripheralManagerDelegateProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A526B1A6F700CB3209 /* BKCBPeripheralManagerDelegateProxy.swift */; };
-		91A105C626B1A6F700CB3209 /* BKCBPeripheralManagerDelegateProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A526B1A6F700CB3209 /* BKCBPeripheralManagerDelegateProxy.swift */; };
-		91A105C726B1A6F700CB3209 /* BKCBPeripheralManagerDelegateProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A526B1A6F700CB3209 /* BKCBPeripheralManagerDelegateProxy.swift */; };
-		91A105C826B1A6F700CB3209 /* BKCentralStateMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A626B1A6F700CB3209 /* BKCentralStateMachine.swift */; };
-		91A105C926B1A6F700CB3209 /* BKCentralStateMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A626B1A6F700CB3209 /* BKCentralStateMachine.swift */; };
-		91A105CA26B1A6F700CB3209 /* BKCentralStateMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A626B1A6F700CB3209 /* BKCentralStateMachine.swift */; };
-		91A105CB26B1A6F700CB3209 /* BKAvailability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A726B1A6F700CB3209 /* BKAvailability.swift */; };
-		91A105CC26B1A6F700CB3209 /* BKAvailability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A726B1A6F700CB3209 /* BKAvailability.swift */; };
-		91A105CD26B1A6F700CB3209 /* BKAvailability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A726B1A6F700CB3209 /* BKAvailability.swift */; };
-		91A105CE26B1A6F700CB3209 /* BKRemoteCentral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A826B1A6F700CB3209 /* BKRemoteCentral.swift */; };
-		91A105CF26B1A6F700CB3209 /* BKRemoteCentral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A826B1A6F700CB3209 /* BKRemoteCentral.swift */; };
-		91A105D026B1A6F700CB3209 /* BKRemoteCentral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A826B1A6F700CB3209 /* BKRemoteCentral.swift */; };
-		91A105D126B1A6F700CB3209 /* BKRemotePeer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A926B1A6F700CB3209 /* BKRemotePeer.swift */; };
-		91A105D226B1A6F700CB3209 /* BKRemotePeer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A926B1A6F700CB3209 /* BKRemotePeer.swift */; };
-		91A105D326B1A6F700CB3209 /* BKRemotePeer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105A926B1A6F700CB3209 /* BKRemotePeer.swift */; };
-		91A105D426B1A6F700CB3209 /* BKContinuousScanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AA26B1A6F700CB3209 /* BKContinuousScanner.swift */; };
-		91A105D526B1A6F700CB3209 /* BKContinuousScanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AA26B1A6F700CB3209 /* BKContinuousScanner.swift */; };
-		91A105D626B1A6F700CB3209 /* BKContinuousScanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AA26B1A6F700CB3209 /* BKContinuousScanner.swift */; };
-		91A105D726B1A6F700CB3209 /* BKScanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AB26B1A6F700CB3209 /* BKScanner.swift */; };
-		91A105D826B1A6F700CB3209 /* BKScanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AB26B1A6F700CB3209 /* BKScanner.swift */; };
-		91A105D926B1A6F700CB3209 /* BKScanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AB26B1A6F700CB3209 /* BKScanner.swift */; };
-		91A105DA26B1A6F700CB3209 /* BKConnectionPool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AC26B1A6F700CB3209 /* BKConnectionPool.swift */; };
-		91A105DB26B1A6F700CB3209 /* BKConnectionPool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AC26B1A6F700CB3209 /* BKConnectionPool.swift */; };
-		91A105DC26B1A6F700CB3209 /* BKConnectionPool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AC26B1A6F700CB3209 /* BKConnectionPool.swift */; };
-		91A105DD26B1A6F700CB3209 /* BKPeripheral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AD26B1A6F700CB3209 /* BKPeripheral.swift */; };
-		91A105DE26B1A6F700CB3209 /* BKPeripheral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AD26B1A6F700CB3209 /* BKPeripheral.swift */; };
-		91A105DF26B1A6F700CB3209 /* BKPeripheral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AD26B1A6F700CB3209 /* BKPeripheral.swift */; };
-		91A105E026B1A6F700CB3209 /* BKCBPeripheralDelegateProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AE26B1A6F700CB3209 /* BKCBPeripheralDelegateProxy.swift */; };
-		91A105E126B1A6F700CB3209 /* BKCBPeripheralDelegateProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AE26B1A6F700CB3209 /* BKCBPeripheralDelegateProxy.swift */; };
-		91A105E226B1A6F700CB3209 /* BKCBPeripheralDelegateProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AE26B1A6F700CB3209 /* BKCBPeripheralDelegateProxy.swift */; };
-		91A105E326B1A6F700CB3209 /* BKCentral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AF26B1A6F700CB3209 /* BKCentral.swift */; };
-		91A105E426B1A6F700CB3209 /* BKCentral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AF26B1A6F700CB3209 /* BKCentral.swift */; };
-		91A105E526B1A6F700CB3209 /* BKCentral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105AF26B1A6F700CB3209 /* BKCentral.swift */; };
-		91A105E626B1A6F700CB3209 /* BKSendDataTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B026B1A6F700CB3209 /* BKSendDataTask.swift */; };
-		91A105E726B1A6F700CB3209 /* BKSendDataTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B026B1A6F700CB3209 /* BKSendDataTask.swift */; };
-		91A105E826B1A6F700CB3209 /* BKSendDataTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B026B1A6F700CB3209 /* BKSendDataTask.swift */; };
-		91A105E926B1A6F700CB3209 /* BKConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B126B1A6F700CB3209 /* BKConfiguration.swift */; };
-		91A105EA26B1A6F700CB3209 /* BKConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B126B1A6F700CB3209 /* BKConfiguration.swift */; };
-		91A105EB26B1A6F700CB3209 /* BKConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B126B1A6F700CB3209 /* BKConfiguration.swift */; };
-		91A105EC26B1A6F700CB3209 /* BKPeer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B226B1A6F700CB3209 /* BKPeer.swift */; };
-		91A105ED26B1A6F700CB3209 /* BKPeer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B226B1A6F700CB3209 /* BKPeer.swift */; };
-		91A105EE26B1A6F700CB3209 /* BKPeer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B226B1A6F700CB3209 /* BKPeer.swift */; };
-		91A105EF26B1A6F700CB3209 /* BKRemotePeripheral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B326B1A6F700CB3209 /* BKRemotePeripheral.swift */; };
-		91A105F026B1A6F700CB3209 /* BKRemotePeripheral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B326B1A6F700CB3209 /* BKRemotePeripheral.swift */; };
-		91A105F126B1A6F700CB3209 /* BKRemotePeripheral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B326B1A6F700CB3209 /* BKRemotePeripheral.swift */; };
-		91A105F226B1A6F700CB3209 /* BKDiscoveriesChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B426B1A6F700CB3209 /* BKDiscoveriesChange.swift */; };
-		91A105F326B1A6F700CB3209 /* BKDiscoveriesChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B426B1A6F700CB3209 /* BKDiscoveriesChange.swift */; };
-		91A105F426B1A6F700CB3209 /* BKDiscoveriesChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B426B1A6F700CB3209 /* BKDiscoveriesChange.swift */; };
-		91A105F526B1A6F700CB3209 /* BKConnectionAttempt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B526B1A6F700CB3209 /* BKConnectionAttempt.swift */; };
-		91A105F626B1A6F700CB3209 /* BKConnectionAttempt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B526B1A6F700CB3209 /* BKConnectionAttempt.swift */; };
-		91A105F726B1A6F700CB3209 /* BKConnectionAttempt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A105B526B1A6F700CB3209 /* BKConnectionAttempt.swift */; };
+		789E629329F0E3C600703EA3 /* BKCBCentralManagerDelegateProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E627D29F0E3C500703EA3 /* BKCBCentralManagerDelegateProxy.swift */; };
+		789E629429F0E3C600703EA3 /* BKDiscovery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E627E29F0E3C500703EA3 /* BKDiscovery.swift */; };
+		789E629529F0E3C600703EA3 /* BKPeripheralStateMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E627F29F0E3C500703EA3 /* BKPeripheralStateMachine.swift */; };
+		789E629629F0E3C600703EA3 /* BKPeripheralConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E628029F0E3C500703EA3 /* BKPeripheralConfiguration.swift */; };
+		789E629729F0E3C600703EA3 /* BKErrorDomain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E628129F0E3C500703EA3 /* BKErrorDomain.swift */; };
+		789E629829F0E3C600703EA3 /* BKCBPeripheralManagerDelegateProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E628229F0E3C500703EA3 /* BKCBPeripheralManagerDelegateProxy.swift */; };
+		789E629929F0E3C600703EA3 /* BKCentralStateMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E628329F0E3C500703EA3 /* BKCentralStateMachine.swift */; };
+		789E629A29F0E3C600703EA3 /* BKAvailability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E628429F0E3C500703EA3 /* BKAvailability.swift */; };
+		789E629B29F0E3C600703EA3 /* BKRemoteCentral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E628529F0E3C500703EA3 /* BKRemoteCentral.swift */; };
+		789E629C29F0E3C600703EA3 /* BKRemotePeer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E628629F0E3C500703EA3 /* BKRemotePeer.swift */; };
+		789E629D29F0E3C600703EA3 /* BKContinuousScanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E628729F0E3C500703EA3 /* BKContinuousScanner.swift */; };
+		789E629E29F0E3C600703EA3 /* BKScanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E628829F0E3C500703EA3 /* BKScanner.swift */; };
+		789E629F29F0E3C600703EA3 /* BKConnectionPool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E628929F0E3C500703EA3 /* BKConnectionPool.swift */; };
+		789E62A029F0E3C600703EA3 /* BKPeripheral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E628A29F0E3C500703EA3 /* BKPeripheral.swift */; };
+		789E62A129F0E3C600703EA3 /* BKCBPeripheralDelegateProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E628B29F0E3C500703EA3 /* BKCBPeripheralDelegateProxy.swift */; };
+		789E62A229F0E3C600703EA3 /* BKCentral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E628C29F0E3C500703EA3 /* BKCentral.swift */; };
+		789E62A329F0E3C600703EA3 /* BKSendDataTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E628D29F0E3C500703EA3 /* BKSendDataTask.swift */; };
+		789E62A429F0E3C600703EA3 /* BKConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E628E29F0E3C500703EA3 /* BKConfiguration.swift */; };
+		789E62A529F0E3C600703EA3 /* BKPeer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E628F29F0E3C500703EA3 /* BKPeer.swift */; };
+		789E62A629F0E3C600703EA3 /* BKRemotePeripheral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E629029F0E3C500703EA3 /* BKRemotePeripheral.swift */; };
+		789E62A729F0E3C600703EA3 /* BKDiscoveriesChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E629129F0E3C500703EA3 /* BKDiscoveriesChange.swift */; };
+		789E62A829F0E3C600703EA3 /* BKConnectionAttempt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789E629229F0E3C500703EA3 /* BKConnectionAttempt.swift */; };
 		C64CDE0E1BE4C57400F72549 /* BluetoothKit.h in Headers */ = {isa = PBXBuildFile; fileRef = C687E3C31B8B4CF100B702D8 /* BluetoothKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C687E3C41B8B4CF100B702D8 /* BluetoothKit.h in Headers */ = {isa = PBXBuildFile; fileRef = C687E3C31B8B4CF100B702D8 /* BluetoothKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C6ED86DC1BA9567A00C9B70B /* BluetoothKit.h in Headers */ = {isa = PBXBuildFile; fileRef = C687E3C31B8B4CF100B702D8 /* BluetoothKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		91A105A026B1A6F700CB3209 /* BKCBCentralManagerDelegateProxy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKCBCentralManagerDelegateProxy.swift; sourceTree = "<group>"; };
-		91A105A126B1A6F700CB3209 /* BKDiscovery.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKDiscovery.swift; sourceTree = "<group>"; };
-		91A105A226B1A6F700CB3209 /* BKPeripheralStateMachine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKPeripheralStateMachine.swift; sourceTree = "<group>"; };
-		91A105A326B1A6F700CB3209 /* BKPeripheralConfiguration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKPeripheralConfiguration.swift; sourceTree = "<group>"; };
-		91A105A426B1A6F700CB3209 /* BKErrorDomain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKErrorDomain.swift; sourceTree = "<group>"; };
-		91A105A526B1A6F700CB3209 /* BKCBPeripheralManagerDelegateProxy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKCBPeripheralManagerDelegateProxy.swift; sourceTree = "<group>"; };
-		91A105A626B1A6F700CB3209 /* BKCentralStateMachine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKCentralStateMachine.swift; sourceTree = "<group>"; };
-		91A105A726B1A6F700CB3209 /* BKAvailability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKAvailability.swift; sourceTree = "<group>"; };
-		91A105A826B1A6F700CB3209 /* BKRemoteCentral.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKRemoteCentral.swift; sourceTree = "<group>"; };
-		91A105A926B1A6F700CB3209 /* BKRemotePeer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKRemotePeer.swift; sourceTree = "<group>"; };
-		91A105AA26B1A6F700CB3209 /* BKContinuousScanner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKContinuousScanner.swift; sourceTree = "<group>"; };
-		91A105AB26B1A6F700CB3209 /* BKScanner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKScanner.swift; sourceTree = "<group>"; };
-		91A105AC26B1A6F700CB3209 /* BKConnectionPool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKConnectionPool.swift; sourceTree = "<group>"; };
-		91A105AD26B1A6F700CB3209 /* BKPeripheral.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKPeripheral.swift; sourceTree = "<group>"; };
-		91A105AE26B1A6F700CB3209 /* BKCBPeripheralDelegateProxy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKCBPeripheralDelegateProxy.swift; sourceTree = "<group>"; };
-		91A105AF26B1A6F700CB3209 /* BKCentral.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKCentral.swift; sourceTree = "<group>"; };
-		91A105B026B1A6F700CB3209 /* BKSendDataTask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKSendDataTask.swift; sourceTree = "<group>"; };
-		91A105B126B1A6F700CB3209 /* BKConfiguration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKConfiguration.swift; sourceTree = "<group>"; };
-		91A105B226B1A6F700CB3209 /* BKPeer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKPeer.swift; sourceTree = "<group>"; };
-		91A105B326B1A6F700CB3209 /* BKRemotePeripheral.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKRemotePeripheral.swift; sourceTree = "<group>"; };
-		91A105B426B1A6F700CB3209 /* BKDiscoveriesChange.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKDiscoveriesChange.swift; sourceTree = "<group>"; };
-		91A105B526B1A6F700CB3209 /* BKConnectionAttempt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKConnectionAttempt.swift; sourceTree = "<group>"; };
+		789E627D29F0E3C500703EA3 /* BKCBCentralManagerDelegateProxy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKCBCentralManagerDelegateProxy.swift; sourceTree = "<group>"; };
+		789E627E29F0E3C500703EA3 /* BKDiscovery.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKDiscovery.swift; sourceTree = "<group>"; };
+		789E627F29F0E3C500703EA3 /* BKPeripheralStateMachine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKPeripheralStateMachine.swift; sourceTree = "<group>"; };
+		789E628029F0E3C500703EA3 /* BKPeripheralConfiguration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKPeripheralConfiguration.swift; sourceTree = "<group>"; };
+		789E628129F0E3C500703EA3 /* BKErrorDomain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKErrorDomain.swift; sourceTree = "<group>"; };
+		789E628229F0E3C500703EA3 /* BKCBPeripheralManagerDelegateProxy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKCBPeripheralManagerDelegateProxy.swift; sourceTree = "<group>"; };
+		789E628329F0E3C500703EA3 /* BKCentralStateMachine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKCentralStateMachine.swift; sourceTree = "<group>"; };
+		789E628429F0E3C500703EA3 /* BKAvailability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKAvailability.swift; sourceTree = "<group>"; };
+		789E628529F0E3C500703EA3 /* BKRemoteCentral.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKRemoteCentral.swift; sourceTree = "<group>"; };
+		789E628629F0E3C500703EA3 /* BKRemotePeer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKRemotePeer.swift; sourceTree = "<group>"; };
+		789E628729F0E3C500703EA3 /* BKContinuousScanner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKContinuousScanner.swift; sourceTree = "<group>"; };
+		789E628829F0E3C500703EA3 /* BKScanner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKScanner.swift; sourceTree = "<group>"; };
+		789E628929F0E3C500703EA3 /* BKConnectionPool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKConnectionPool.swift; sourceTree = "<group>"; };
+		789E628A29F0E3C500703EA3 /* BKPeripheral.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKPeripheral.swift; sourceTree = "<group>"; };
+		789E628B29F0E3C500703EA3 /* BKCBPeripheralDelegateProxy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKCBPeripheralDelegateProxy.swift; sourceTree = "<group>"; };
+		789E628C29F0E3C500703EA3 /* BKCentral.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKCentral.swift; sourceTree = "<group>"; };
+		789E628D29F0E3C500703EA3 /* BKSendDataTask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKSendDataTask.swift; sourceTree = "<group>"; };
+		789E628E29F0E3C500703EA3 /* BKConfiguration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKConfiguration.swift; sourceTree = "<group>"; };
+		789E628F29F0E3C500703EA3 /* BKPeer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKPeer.swift; sourceTree = "<group>"; };
+		789E629029F0E3C500703EA3 /* BKRemotePeripheral.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKRemotePeripheral.swift; sourceTree = "<group>"; };
+		789E629129F0E3C500703EA3 /* BKDiscoveriesChange.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKDiscoveriesChange.swift; sourceTree = "<group>"; };
+		789E629229F0E3C500703EA3 /* BKConnectionAttempt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BKConnectionAttempt.swift; sourceTree = "<group>"; };
 		C64CDDF31BE4C46A00F72549 /* BluetoothKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BluetoothKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C687E3981B8B496400B702D8 /* BluetoothKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BluetoothKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C687E3A41B8B4A2800B702D8 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -133,31 +89,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		91A1059F26B1A6F700CB3209 /* Source */ = {
+		789E627C29F0E3C500703EA3 /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				91A105A026B1A6F700CB3209 /* BKCBCentralManagerDelegateProxy.swift */,
-				91A105A126B1A6F700CB3209 /* BKDiscovery.swift */,
-				91A105A226B1A6F700CB3209 /* BKPeripheralStateMachine.swift */,
-				91A105A326B1A6F700CB3209 /* BKPeripheralConfiguration.swift */,
-				91A105A426B1A6F700CB3209 /* BKErrorDomain.swift */,
-				91A105A526B1A6F700CB3209 /* BKCBPeripheralManagerDelegateProxy.swift */,
-				91A105A626B1A6F700CB3209 /* BKCentralStateMachine.swift */,
-				91A105A726B1A6F700CB3209 /* BKAvailability.swift */,
-				91A105A826B1A6F700CB3209 /* BKRemoteCentral.swift */,
-				91A105A926B1A6F700CB3209 /* BKRemotePeer.swift */,
-				91A105AA26B1A6F700CB3209 /* BKContinuousScanner.swift */,
-				91A105AB26B1A6F700CB3209 /* BKScanner.swift */,
-				91A105AC26B1A6F700CB3209 /* BKConnectionPool.swift */,
-				91A105AD26B1A6F700CB3209 /* BKPeripheral.swift */,
-				91A105AE26B1A6F700CB3209 /* BKCBPeripheralDelegateProxy.swift */,
-				91A105AF26B1A6F700CB3209 /* BKCentral.swift */,
-				91A105B026B1A6F700CB3209 /* BKSendDataTask.swift */,
-				91A105B126B1A6F700CB3209 /* BKConfiguration.swift */,
-				91A105B226B1A6F700CB3209 /* BKPeer.swift */,
-				91A105B326B1A6F700CB3209 /* BKRemotePeripheral.swift */,
-				91A105B426B1A6F700CB3209 /* BKDiscoveriesChange.swift */,
-				91A105B526B1A6F700CB3209 /* BKConnectionAttempt.swift */,
+				789E627D29F0E3C500703EA3 /* BKCBCentralManagerDelegateProxy.swift */,
+				789E627E29F0E3C500703EA3 /* BKDiscovery.swift */,
+				789E627F29F0E3C500703EA3 /* BKPeripheralStateMachine.swift */,
+				789E628029F0E3C500703EA3 /* BKPeripheralConfiguration.swift */,
+				789E628129F0E3C500703EA3 /* BKErrorDomain.swift */,
+				789E628229F0E3C500703EA3 /* BKCBPeripheralManagerDelegateProxy.swift */,
+				789E628329F0E3C500703EA3 /* BKCentralStateMachine.swift */,
+				789E628429F0E3C500703EA3 /* BKAvailability.swift */,
+				789E628529F0E3C500703EA3 /* BKRemoteCentral.swift */,
+				789E628629F0E3C500703EA3 /* BKRemotePeer.swift */,
+				789E628729F0E3C500703EA3 /* BKContinuousScanner.swift */,
+				789E628829F0E3C500703EA3 /* BKScanner.swift */,
+				789E628929F0E3C500703EA3 /* BKConnectionPool.swift */,
+				789E628A29F0E3C500703EA3 /* BKPeripheral.swift */,
+				789E628B29F0E3C500703EA3 /* BKCBPeripheralDelegateProxy.swift */,
+				789E628C29F0E3C500703EA3 /* BKCentral.swift */,
+				789E628D29F0E3C500703EA3 /* BKSendDataTask.swift */,
+				789E628E29F0E3C500703EA3 /* BKConfiguration.swift */,
+				789E628F29F0E3C500703EA3 /* BKPeer.swift */,
+				789E629029F0E3C500703EA3 /* BKRemotePeripheral.swift */,
+				789E629129F0E3C500703EA3 /* BKDiscoveriesChange.swift */,
+				789E629229F0E3C500703EA3 /* BKConnectionAttempt.swift */,
 			);
 			path = Source;
 			sourceTree = "<group>";
@@ -165,8 +121,8 @@
 		C687E38E1B8B496400B702D8 = {
 			isa = PBXGroup;
 			children = (
+				789E627C29F0E3C500703EA3 /* Source */,
 				C687E3C21B8B4CF100B702D8 /* Umbrella */,
-				91A1059F26B1A6F700CB3209 /* Source */,
 				C687E3A31B8B4A2800B702D8 /* Resources */,
 				C687E3991B8B496400B702D8 /* Products */,
 			);
@@ -387,28 +343,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				91A105E526B1A6F700CB3209 /* BKCentral.swift in Sources */,
-				91A105E826B1A6F700CB3209 /* BKSendDataTask.swift in Sources */,
-				91A105F426B1A6F700CB3209 /* BKDiscoveriesChange.swift in Sources */,
-				91A105DF26B1A6F700CB3209 /* BKPeripheral.swift in Sources */,
-				91A105EB26B1A6F700CB3209 /* BKConfiguration.swift in Sources */,
-				91A105DC26B1A6F700CB3209 /* BKConnectionPool.swift in Sources */,
-				91A105BE26B1A6F700CB3209 /* BKPeripheralStateMachine.swift in Sources */,
-				91A105D926B1A6F700CB3209 /* BKScanner.swift in Sources */,
-				91A105B826B1A6F700CB3209 /* BKCBCentralManagerDelegateProxy.swift in Sources */,
-				91A105D626B1A6F700CB3209 /* BKContinuousScanner.swift in Sources */,
-				91A105F726B1A6F700CB3209 /* BKConnectionAttempt.swift in Sources */,
-				91A105BB26B1A6F700CB3209 /* BKDiscovery.swift in Sources */,
-				91A105C726B1A6F700CB3209 /* BKCBPeripheralManagerDelegateProxy.swift in Sources */,
-				91A105C126B1A6F700CB3209 /* BKPeripheralConfiguration.swift in Sources */,
-				91A105F126B1A6F700CB3209 /* BKRemotePeripheral.swift in Sources */,
-				91A105EE26B1A6F700CB3209 /* BKPeer.swift in Sources */,
-				91A105D026B1A6F700CB3209 /* BKRemoteCentral.swift in Sources */,
-				91A105CA26B1A6F700CB3209 /* BKCentralStateMachine.swift in Sources */,
-				91A105E226B1A6F700CB3209 /* BKCBPeripheralDelegateProxy.swift in Sources */,
-				91A105C426B1A6F700CB3209 /* BKErrorDomain.swift in Sources */,
-				91A105D326B1A6F700CB3209 /* BKRemotePeer.swift in Sources */,
-				91A105CD26B1A6F700CB3209 /* BKAvailability.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -416,28 +350,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				91A105E326B1A6F700CB3209 /* BKCentral.swift in Sources */,
-				91A105E626B1A6F700CB3209 /* BKSendDataTask.swift in Sources */,
-				91A105F226B1A6F700CB3209 /* BKDiscoveriesChange.swift in Sources */,
-				91A105DD26B1A6F700CB3209 /* BKPeripheral.swift in Sources */,
-				91A105E926B1A6F700CB3209 /* BKConfiguration.swift in Sources */,
-				91A105DA26B1A6F700CB3209 /* BKConnectionPool.swift in Sources */,
-				91A105BC26B1A6F700CB3209 /* BKPeripheralStateMachine.swift in Sources */,
-				91A105D726B1A6F700CB3209 /* BKScanner.swift in Sources */,
-				91A105B626B1A6F700CB3209 /* BKCBCentralManagerDelegateProxy.swift in Sources */,
-				91A105D426B1A6F700CB3209 /* BKContinuousScanner.swift in Sources */,
-				91A105F526B1A6F700CB3209 /* BKConnectionAttempt.swift in Sources */,
-				91A105B926B1A6F700CB3209 /* BKDiscovery.swift in Sources */,
-				91A105C526B1A6F700CB3209 /* BKCBPeripheralManagerDelegateProxy.swift in Sources */,
-				91A105BF26B1A6F700CB3209 /* BKPeripheralConfiguration.swift in Sources */,
-				91A105EF26B1A6F700CB3209 /* BKRemotePeripheral.swift in Sources */,
-				91A105EC26B1A6F700CB3209 /* BKPeer.swift in Sources */,
-				91A105CE26B1A6F700CB3209 /* BKRemoteCentral.swift in Sources */,
-				91A105C826B1A6F700CB3209 /* BKCentralStateMachine.swift in Sources */,
-				91A105E026B1A6F700CB3209 /* BKCBPeripheralDelegateProxy.swift in Sources */,
-				91A105C226B1A6F700CB3209 /* BKErrorDomain.swift in Sources */,
-				91A105D126B1A6F700CB3209 /* BKRemotePeer.swift in Sources */,
-				91A105CB26B1A6F700CB3209 /* BKAvailability.swift in Sources */,
+				789E629E29F0E3C600703EA3 /* BKScanner.swift in Sources */,
+				789E629929F0E3C600703EA3 /* BKCentralStateMachine.swift in Sources */,
+				789E62A029F0E3C600703EA3 /* BKPeripheral.swift in Sources */,
+				789E629629F0E3C600703EA3 /* BKPeripheralConfiguration.swift in Sources */,
+				789E629F29F0E3C600703EA3 /* BKConnectionPool.swift in Sources */,
+				789E629729F0E3C600703EA3 /* BKErrorDomain.swift in Sources */,
+				789E62A729F0E3C600703EA3 /* BKDiscoveriesChange.swift in Sources */,
+				789E62A429F0E3C600703EA3 /* BKConfiguration.swift in Sources */,
+				789E62A629F0E3C600703EA3 /* BKRemotePeripheral.swift in Sources */,
+				789E629D29F0E3C600703EA3 /* BKContinuousScanner.swift in Sources */,
+				789E62A229F0E3C600703EA3 /* BKCentral.swift in Sources */,
+				789E62A129F0E3C600703EA3 /* BKCBPeripheralDelegateProxy.swift in Sources */,
+				789E629A29F0E3C600703EA3 /* BKAvailability.swift in Sources */,
+				789E629C29F0E3C600703EA3 /* BKRemotePeer.swift in Sources */,
+				789E629329F0E3C600703EA3 /* BKCBCentralManagerDelegateProxy.swift in Sources */,
+				789E62A529F0E3C600703EA3 /* BKPeer.swift in Sources */,
+				789E629829F0E3C600703EA3 /* BKCBPeripheralManagerDelegateProxy.swift in Sources */,
+				789E62A829F0E3C600703EA3 /* BKConnectionAttempt.swift in Sources */,
+				789E629529F0E3C600703EA3 /* BKPeripheralStateMachine.swift in Sources */,
+				789E629B29F0E3C600703EA3 /* BKRemoteCentral.swift in Sources */,
+				789E629429F0E3C600703EA3 /* BKDiscovery.swift in Sources */,
+				789E62A329F0E3C600703EA3 /* BKSendDataTask.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -445,28 +379,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				91A105E426B1A6F700CB3209 /* BKCentral.swift in Sources */,
-				91A105E726B1A6F700CB3209 /* BKSendDataTask.swift in Sources */,
-				91A105F326B1A6F700CB3209 /* BKDiscoveriesChange.swift in Sources */,
-				91A105DE26B1A6F700CB3209 /* BKPeripheral.swift in Sources */,
-				91A105EA26B1A6F700CB3209 /* BKConfiguration.swift in Sources */,
-				91A105DB26B1A6F700CB3209 /* BKConnectionPool.swift in Sources */,
-				91A105BD26B1A6F700CB3209 /* BKPeripheralStateMachine.swift in Sources */,
-				91A105D826B1A6F700CB3209 /* BKScanner.swift in Sources */,
-				91A105B726B1A6F700CB3209 /* BKCBCentralManagerDelegateProxy.swift in Sources */,
-				91A105D526B1A6F700CB3209 /* BKContinuousScanner.swift in Sources */,
-				91A105F626B1A6F700CB3209 /* BKConnectionAttempt.swift in Sources */,
-				91A105BA26B1A6F700CB3209 /* BKDiscovery.swift in Sources */,
-				91A105C626B1A6F700CB3209 /* BKCBPeripheralManagerDelegateProxy.swift in Sources */,
-				91A105C026B1A6F700CB3209 /* BKPeripheralConfiguration.swift in Sources */,
-				91A105F026B1A6F700CB3209 /* BKRemotePeripheral.swift in Sources */,
-				91A105ED26B1A6F700CB3209 /* BKPeer.swift in Sources */,
-				91A105CF26B1A6F700CB3209 /* BKRemoteCentral.swift in Sources */,
-				91A105C926B1A6F700CB3209 /* BKCentralStateMachine.swift in Sources */,
-				91A105E126B1A6F700CB3209 /* BKCBPeripheralDelegateProxy.swift in Sources */,
-				91A105C326B1A6F700CB3209 /* BKErrorDomain.swift in Sources */,
-				91A105D226B1A6F700CB3209 /* BKRemotePeer.swift in Sources */,
-				91A105CC26B1A6F700CB3209 /* BKAvailability.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
